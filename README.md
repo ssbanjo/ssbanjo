@@ -17,7 +17,7 @@
 ### **Side languages**
 
 <div>
-    <img height="30" margin-right="10px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" onclick="return false;"/>
+    <img height="30" margin="100px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" onclick="return false;"/>
     <img height="30" margin-right="10px" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" onclick="return false;"/>
     <img height="30" margin-right="10px" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" onclick="return false;"/>
 </div>
