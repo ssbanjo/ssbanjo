@@ -7,8 +7,8 @@
 - Databases
 - API's
 
-<a href="https://medium.com/@zluvsand">
-    <img height="50" src="https://cdn4.iconfinder.com/data/icons/social-media-rounded-corners/512/Medium_rounded_cr-306.png"/>
+<a>
+    <img height="30" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-1024.png"/>
 </a>
 
 🟢 Python, Golang
