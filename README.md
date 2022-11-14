@@ -8,8 +8,7 @@
 - API's
 
 <a>
-    Python
-    <img height="30" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-1024.png"/>
+    <img height="30" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-1024.png" onclick="return false;"/>
 </a>
 
 🟢 Python, Golang
