@@ -7,5 +7,5 @@
 - Databases
 - API's
 
-🟢 Python, Golang
+🟢 Python, Golang\n
 🟠 JavaScript, Java, C#
