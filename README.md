@@ -6,3 +6,5 @@
 - AI
 - Databases
 - API's
+
+![Python](https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-1024.png)
