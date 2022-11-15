@@ -2,7 +2,7 @@
 ## *Web2 & Web3*
 
 - Automation: bots, scripts, monitors.
-- Reverse engineering: web3 contracts, anti-bots.
+- Reverse engineering: web3 contracts, anti-bots, bypasses.
 - Machine learning: captcha solvers.
 - Databases
 - API's
