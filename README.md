@@ -7,6 +7,8 @@
 - Databases
 - API's
 
++4 years of experience
+
 ### **Main languages**
 
 <div>
