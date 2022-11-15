@@ -7,7 +7,7 @@
 - Databases
 - API's
 
-+4 years of experience
+over 4 years of self-taught coding experience
 
 ### **Main languages**
 
