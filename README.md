@@ -1,13 +1,13 @@
 # **Backend developer**
 ## *Web2 & Web3*
 
-- Automation
-- Reverse engineering
-- AI
+- Automation: bots, scripts, monitors.
+- Reverse engineering: web3 contracts, anti-bots.
+- Machine learning: captcha solvers.
 - Databases
 - API's
 
-over 4 years of self-taught coding experience
+Over 4 years of self-taught coding experience.
 
 ### **Main languages**
 
