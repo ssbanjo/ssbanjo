@@ -20,6 +20,7 @@ Over 4 years of self-taught coding experience.
 
 <div>
     <img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" onclick="return false;"/>
+    <img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" onclick="return false;"/>
     <img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" onclick="return false;"/>
     <img height="30" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" onclick="return false;"/>
 </div>
