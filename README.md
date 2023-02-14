@@ -9,18 +9,4 @@
 
 Over 4 years of self-taught coding experience.
 
-### **Main languages**
-
-<div>
-    <img height="30" src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png" onclick="return false;"/>
-    <img height="30" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/golang_logo_icon_171073.png" onclick="return false;"/>
-</div>
-
-### **Side languages**
-
-<div>
-    <img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" onclick="return false;"/>
-    <img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" onclick="return false;"/>
-    <img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" onclick="return false;"/>
-    <img height="30" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" onclick="return false;"/>
-</div>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
