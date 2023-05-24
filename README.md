@@ -5,7 +5,7 @@
 - Reverse engineering
 - Machine learning
 - Database & API integration
-- Blockchain tech
+- Blockchain
 
 Over 5 years of self-taught coding experience.
 
