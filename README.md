@@ -1,10 +1,9 @@
-# **Backend developer**
-## *Web2 & Web3*
+# **Web2 & Web3 developer**
 
 - Automation
 - Reverse engineering
 - Machine learning
-- Database & API integration
+- Servers & databases
 - Blockchain
 
 Over 5 years of self-taught coding experience.
