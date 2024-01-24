@@ -1,7 +1,7 @@
 # **Web2 & Web3 developer**
 ## Backend & Automation SaaS
 
-👨‍💻 Currently working on Blockchain SaaS
+👨‍💻 Currently working on Web3 SaaS for desktop, web and clould enviroments.
 
 📚 Over 5 years of self-taught coding experience.
 
