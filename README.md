@@ -1,5 +1,4 @@
-# **Web2 & Web3 developer**
-## Backend & Automation SaaS
+# Software & Backend (Web2/Web3)
 
 👨‍💻 Currently working on Web3 SaaS for desktop, web and cloud enviroments.
 
